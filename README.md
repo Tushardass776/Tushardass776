@@ -41,25 +41,12 @@
   <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=tushardass776\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
-
 ---
 
 ## 🚀 Featured Projects
 
 * 🔐 Cybersecurity Awareness Game
-* 🤖 Arduino Interactive Museum Exhibit
+* 🤖 Python Based modelling and training
 * 🌐 Personal Web Development Projects
 
 ---
