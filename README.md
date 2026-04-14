@@ -20,7 +20,7 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,c++,python,js" />
 </p>
 
 ### 🌐 Web Development
