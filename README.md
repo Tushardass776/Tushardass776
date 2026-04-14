@@ -19,25 +19,34 @@
 
 ### 💻 Languages
 
-`C` `Python` `JavaScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,js" />
+</p>
 
 ### 🌐 Web Development
 
-`HTML` `CSS` `JavaScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ### ⚙️ Tools & Technologies
 
-`Git` `GitHub` `Arduino`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,arduino,vscode" />
+</p>
 
 ### 🔐 Interests
 
-`Cybersecurity` `AI` `Data Science`
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
 
 ---
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=tushardas776s&show_icons=true&theme=tokyonight
+![Stats](https://github-readme-stats.vercel.app/api?username=tushardass776\&theme=tokyonight)
 
 ---
 
