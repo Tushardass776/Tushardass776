@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-* 🔭 Currently working on **Cybersecurity & Arduino-based Projects**
+* 🔭 Currently working on **Cybersecurity & Web Development based Projects**
 * 🌱 Learning **Artificial Intelligence, Data Science & Advanced Web Development**
 * 💡 Passionate about solving real-world problems using technology
 * 🎯 Goal: To become a skilled Software Developer & contribute to impactful projects
@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushardass776\&show_icons=true\&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=tushardas776s&show_icons=true&theme=tokyonight
 
 ---
 
